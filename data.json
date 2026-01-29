@@ -1,0 +1,416 @@
+{
+  "coreData": {
+    "name": "InnoTalent Metaverse",
+    "role": "HKPC 2026 Winter",
+    "jobDesc": "",
+    "reflection": "Leading HKPC to the future of Industry 4.0. Transforming ideas into reality with innovation and technology.",
+    "avatar": "core_avatar.png"
+  },
+  "rawData": [
+  {
+
+    "name": "Ethan Ip Hei Yeung",
+
+    "role": "NID",
+
+    "jobDesc": "Supported team strategy consulting projects through extensive market and competitive intelligence research, drafting relevant TSF proposals for prospective initiatives such as advancing local ATP development , as well as assisting with slides deck development and proposing chnages for website enhancements",
+
+    "reflection": "As a Winter Intern at the HKPC, I supported strategy consulting and honed my digital marketing skills, gaining real-world experience in the realm of healthtech consulting. I'm profoundly grateful for this enriching experience that sharpened my analytical abilities, illuminated me about Hong Kong's innovation ecosystem, and educated me more about how to further my care. I also had the pleasure of becoming friends with some amazing people during my time here, I believed I laughed just as much as I learned. Thank you to the HKPC TCM and Healthtech team and HR for their invaluable guidance and support, the InnoTalent program has been nothing short of transformative and invaluable.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Chung Po Shan, Michelle",
+
+    "role": "TFD",
+
+    "jobDesc": "Conducted policy and funding research analysis on government development blueprints to identify gaps in existing funding mechnism, prepared training workshop materials",
+
+    "reflection": "Great team spirit and I learned so much about the local industry ecosystem.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Luk Wing Yu",
+
+    "role": "GID",
+
+    "jobDesc": "Conducted research on the CO2 air purifier system and explored methods to immobilize resins into practical forms for prototype testing",
+
+    "reflection": "HKPC provided a great platform to apply my engineering knowledge to real-world problems.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Twan Tsz Yin, Oliver",
+
+    "role": "SCD",
+
+    "jobDesc": "Developed a GPU-free table recognition application based on customer requirements that processes images to extract and digitize table data using a lightweight OCR model, with the extracted data automatically stored in a built-in database.",
+
+    "reflection": "Solving technical challenges for clients was incredibly rewarding.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Hong Seokhyeon, Sean",
+
+    "role": "APAS",
+
+    "jobDesc": "Developed a voice command system and 3D map for e-transporter, an autonomous guided vehicle, and researched agentic AI applications",
+
+    "reflection": "Fascinating to see how autonomous vehicles are shaping the future of logistics.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Keung Yam Kei, Kily",
+
+    "role": "FSD",
+
+    "jobDesc": "Understanding HKTISC's positioning in Hong Kong, as well as the work the center has carried out since its establishment to promote IP, including: providing free patent searches and organizing IP promotion activities.",
+
+    "reflection": "Gained deep insights into the importance of intellectual property in innovation.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Anna Tikhomirova",
+
+    "role": "GID",
+
+    "jobDesc": "Conducted research on new methods of LFP battery recycling, led a team to develop an AI-powered safety system",
+
+    "reflection": "I’m really thankful to being able to join Winter InnoTalent Program at HKPC, I have met a lot of amazing people throughout this internship. Every day brought new lessons - both technical and personal - that made this experience truly worthwhile.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Wang Han Lin, Henry",
+
+    "role": "SCD",
+
+    "jobDesc": "Developed an autonomous vision system for DJI drones with real-time YOLO object detection, enabling sub-200ms response time for intelligent flight control. Develop this metaverse and HKPC PiColo door access system",
+
+    "reflection": "I am grateful for the unforgettale time I spent in HKPC, not only did I experience highly professional and humanistic care, but I also had 30 like-minded and incredibly easy-going intern colleagues. Here I not only improved my Cantonese and English lol, but also gained a group of lifelong friends with whom I can confide.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Setiawan Joanne Trinity",
+
+    "role": "GID",
+
+    "jobDesc": "Conducted research and making sample of nano-emulsions in a Phase Change Materials via D-Phase and its property to be a thermal energy storage",
+
+    "reflection": "The hands-on lab experience was invaluable for my professional growth.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Louise Danielle Sugiarto",
+
+    "role": "TFD",
+
+    "jobDesc": "Managed AI Chatbot PistaChio, that's used as a funding chatbot, by developing Power BI dashboards to track fund performance and analyzing chatbot interaction data.",
+
+    "reflection": "Data-driven decision making is key, and I'm glad I could contribute to the chatbot's success.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Chan Ho Ting, William",
+
+    "role": "SCD",
+
+    "jobDesc": "Designed and built an IoT Smartband and Mobile Application Integrated System that monitor health states of the elderly.",
+
+    "reflection": "I'm thrilled to participate in Winter InnoTalent and to have connected with all of you at HKPC. This experience has been truly enriching, expanding my viewpoint, especially during the visit. Additionally, I've gained a deeper understanding of IoT system design and enhanced my knowledge of front-end and back-end integration.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Wang Zi Han, Sabrina",
+
+    "role": "CDD",
+
+    "jobDesc": "Conducted research and sourcing for magazine publications, independently handled the translation and writing of press releases, and managed media liaison and communication.",
+
+    "reflection": "I gained valuable work experience and the joy of teamwork. By participating in practical projects, I not only enhanced my professional skills but also learned how to communicate and collaborate effectively.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Zhao Zehui, Leila",
+
+    "role": "SMD",
+
+    "jobDesc": "Conducted global industry research and SME surveys on AI, textile recycling and footwear industries, designed a robotic arm-mounted camera system and conducted thermographic defect inspection for robotic arms to support a smarter and more sustainable manufacturing.",
+
+    "reflection": "Working in HKPC has significantly strengthen my professionalism, particularly in technical skills. During my time in SMD, I had the precious opportunity to contribute to both fashion-textile-related research, and smart machinery engineering projects. This experiences allowed me to connect interdisciplinary fields and gain a broader and more holistic understanding in manufacturing sector. I am truly grateful to have been part of the team over the past 6 weeks.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Amy Liu",
+
+    "role": "RAD",
+
+    "jobDesc": "Enabled human to robot data transfer for visual language action models, developing a novel pipeline for increasing efficiency of machine learning advancements",
+
+    "reflection": "Working at the intersection of robotics and AI was a dream come true.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Chung Nga Man Queenie",
+
+    "role": "CDD",
+
+    "jobDesc": "Understanding the procedure of organising event and the proper way the treat VIP clients had broadened my horizon and deepened my understanding of corporate engagement.",
+
+    "reflection": "Glad to be part of the Winter InnoTalent and met all of you in HKPC. It is such a fruitful experience which explored my horizon, especially get the chance to visit Hongrita in person and gain meaningful insights. I have a deeper understanding of company operations and have solid experience in corporate communications within the industry.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Toy Jia Ren, Ethan",
+
+    "role": "HFD",
+
+    "jobDesc": "Supported the planning and delivery of media interviews and intern-led events, including the performance and promotional video",
+
+    "reflection": "An internship that was well structured and had a clear objective in inspiring the young generation in capitalise the new technology and innovation. It was filled with insightful field trips and creative project assignments, fostered an environment of creating ever-lasting connections.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Chan Ching Sze, Priscilla",
+
+    "role": "DTD",
+
+    "jobDesc": "Consolidated functional specifications for the Next-Gen ERP project and liasing with various vendors for the AI OCR POC.",
+
+    "reflection": "Bridging the gap between technical requirements and business needs was a great learning curve.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Sze-To Godfrey Chun",
+
+    "role": "FPD",
+
+    "jobDesc": "Developed an AI prompt to simplify, review and score Tender & RFQ specifications. Integrated VBA Macros to convert tables in Word into Markdown for easier formatting.",
+
+    "reflection": "This internship has been extremely memorable. The blend between field trips, site visits and office work have further developed both my technical abilities and interpersonal skills. Very grateful for this invaluable experience!",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Kwong Yat Chun, Jerry",
+
+    "role": "BOU",
+
+    "jobDesc": "Designed and built an end-to-end Power BI reporting solution with automated Excel ingestion",
+
+    "reflection": "This internship has been a rewarding experience where I gained hands‑on experience in building automated Power BI reports and strengthening my data modelling skills. Through working with colleagues and real business data, I developed both my technical and communication abilities and gained a clearer understanding of how data supports decision‑making.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Rohnan Thomas Else",
+
+    "role": "RAD",
+
+    "jobDesc": "Constructed a hand exoskeleton capable of recording hand movements to reproduce more sophisticated AI models to more",
+
+    "reflection": "The hands-on engineering work challenged me to think outside the box.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Zhang Jialin, Rita",
+
+    "role": "IFD",
+
+    "jobDesc": "",
+
+    "reflection": "The most important takeaway is understanding how a key public organization operates within Hong Kong's innovation ecosystem, and seeing firsthand the concrete efforts and opportunities within the local technology industry. It has been a very informative experience.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Fan Hoi Ting, Tiffany",
+
+    "role": "BOU",
+
+    "jobDesc": "Reviewed and updated documentation for Hong Kong government funding schemes, and developed future work plans. Researched and analyzed funding eligibility and pools to support targeted outreach.",
+
+    "reflection": "I'm incredibly grateful to have been part of this internship. It was such a rewarding experience, thanks to the wonderful mentors and team I got to learn from. Not only did my professional skills grow, but it was truly eye-opening to see innovation happening all around me.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Renee Chiu",
+
+    "role": "IFD",
+
+    "jobDesc": "Developed diverse bilingual flyers and targeted social media campaigns for several AI School workshops, utilizing AI-generated visuals to effectively communicate essential details to primary and secondary school educators",
+
+    "reflection": "Combining creativity with AI tools allowed me to produce impactful communication materials.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Leung Yat Hang, Nicholas",
+
+    "role": "HFD",
+
+    "jobDesc": "Acquired Power BI knwoledge to generate pie charts and analyze employee leave data, studied the 418 and 468 policies, and conducted in-depth research to inform strategic insights",
+
+    "reflection": "It was a very rewarding experience to participate in this internship program. The collegaues in HKPC were very friendly and welcoming. I felt part of the team and felt motivated to come to work every day. I also really liked that we had the opportunity to go outside of the office for some field trips.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Dhruv Sarwate",
+
+    "role": "RAD",
+
+    "jobDesc": "Developed a workflow that leverages large language models and gathers latest knowledge using paper/web search to automate feasibility report generation",
+
+    "reflection": "I am very appreciative for the valuable knowledge and insight I gained at the Winter InnoTalent program. I've learnt a lot from my very supportive colleagues while getting the opprotunity to gain meaningful work experience.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Tam Hiu Tung, Hazel",
+
+    "role": "FPD",
+
+    "jobDesc": "Conducted in account reconciliation for more than 100 project codes as well as cross platform checking more than 100 vendors's banking information",
+
+    "reflection": "Meticulous attention to detail is vital, and I've grown much more confident in my financial skills.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Cheng Hong Kiu, Mira",
+
+    "role": "NID",
+
+    "jobDesc": "",
+
+    "reflection": "I'm grateful for the opportunity to join the Winter InnoTalent Program, where I created promotional posts, edited videos, and supported outreach efforts. This experience not only enhanced my creativity and communication skills but also deepened my understanding of how innovation and technology can drive meaningful impact in the NGO sector.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Cheung Lai Ming, Synnove",
+
+    "role": "GID",
+
+    "jobDesc": "Assisted in the on-site assessments for the BOCHK Award.",
+
+    "reflection": "It was a privilege to witness the innovative spirit of the award participants.",
+
+    "avatar": ""
+
+  },
+
+  {
+
+    "name": "Fayyaz Zainab",
+
+    "role": "DTD",
+
+    "jobDesc": "Developed the internal seat allocation tool for HKPC and led the frontend development of the AFCD website, building a clean, responsive interface with better usability, accessibility improvements, and smooth integration of real-time workspace features.",
+
+    "reflection": "Focusing on user experience taught me how design can make technology accessible to everyone.",
+
+    "avatar": ""
+
+  }
+  ]
+}

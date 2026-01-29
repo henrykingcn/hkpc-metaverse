@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <title>HKPC InnoTalent Metaverse</title>
+
+  <link rel="stylesheet" href="./styles.css" />
+
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+      }
+    }
+  </script>
+</head>
+
+<body>
+  <div id="loader">INITIALIZING NEXUS SYSTEM...</div>
+
+  <div id="ui-layer">
+    <!-- Top Left Title -->
+    <div id="header-container" onclick="toggleHeader()">
+      <div id="header-ui">
+        <h1>HKPC InnoTalent Metaverse</h1>
+        <div class="subtitle">Updated in 2026 Winter</div>
+      </div>
+      <div id="toggle-btn">&#10148;</div>
+    </div>
+
+    <!-- Bottom Left Settings -->
+    <div id="settings-btn" onclick="toggleSettings()">⚙</div>
+
+    <div id="settings-menu">
+        <div class="menu-header">
+            SETTINGS
+            <span class="close-menu" onclick="toggleSettings()">✕</span>
+        </div>
+        
+        <div class="menu-item">
+            <span>Hand Gestures</span>
+            <label class="switch">
+                <input type="checkbox" id="gesture-toggle" checked>
+                <span class="slider"></span>
+            </label>
+        </div>
+
+        <div class="credits-section">
+            <div class="credits-title">TEAM</div>
+            <ul class="dev-list">
+                <li><span class="dev-role">Lead</span> <span class="dev-name">All 2026 Winter Interns</span></li>
+                <li><span class="dev-role">Quality</span> <span class="dev-name">Hermione, Sabrina, Rita</span></li>
+                <li><span class="dev-role">Coding</span> <span class="dev-name">Henry, Oliver, Gemini</span></li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Hand keypoints overlay -->
+    <canvas id="hand-overlay"></canvas>
+  </div>
+
+  <div id="canvas-container"></div>
+
+  <!-- Hidden camera feed -->
+  <video id="hand-video" playsinline style="position:fixed; left:-9999px; top:-9999px;"></video>
+
+  <!-- MediaPipe Hands (CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js"></script>
+
+  <script type="module" src="./app.js"></script>
+
+
+  <audio id="bgm" src="./assets/music_space.mp3" loop autoplay muted preload="auto"></audio>
+
+  <!-- Simple music UI -->
+  <div class="music-ui">
+    <input id="musicVolume" type="range" min="0" max="1" step="0.01" value="0.6" />
+  </div>
+</body>
+</html>
